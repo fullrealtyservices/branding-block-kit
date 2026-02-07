@@ -1,3 +1,5 @@
+> **See also:** [Site-level plugin instructions](../CLAUDE.md) for git workflow and shared guidelines.
+
 # Branding Block Kit
 
 A visual blocks-based style guide system for WordPress that automatically displays design tokens from `theme.json`.
